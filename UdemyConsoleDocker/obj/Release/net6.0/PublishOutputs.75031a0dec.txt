@@ -1,0 +1,5 @@
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\bin\Release\net6.0\publish\UdemyConsoleDocker.exe
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\bin\Release\net6.0\publish\UdemyConsoleDocker.dll
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\bin\Release\net6.0\publish\UdemyConsoleDocker.deps.json
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\bin\Release\net6.0\publish\UdemyConsoleDocker.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\bin\Release\net6.0\publish\UdemyConsoleDocker.pdb

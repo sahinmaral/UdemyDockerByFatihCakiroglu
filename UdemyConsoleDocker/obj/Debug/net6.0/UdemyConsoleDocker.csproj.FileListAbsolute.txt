@@ -1,0 +1,15 @@
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\bin\Debug\net6.0\UdemyConsoleDocker.exe
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\bin\Debug\net6.0\UdemyConsoleDocker.deps.json
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\bin\Debug\net6.0\UdemyConsoleDocker.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\bin\Debug\net6.0\UdemyConsoleDocker.dll
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\bin\Debug\net6.0\UdemyConsoleDocker.pdb
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\obj\Debug\net6.0\UdemyConsoleDocker.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\obj\Debug\net6.0\UdemyConsoleDocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\obj\Debug\net6.0\UdemyConsoleDocker.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\obj\Debug\net6.0\UdemyConsoleDocker.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\obj\Debug\net6.0\UdemyConsoleDocker.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\obj\Debug\net6.0\UdemyConsoleDocker.dll
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\obj\Debug\net6.0\refint\UdemyConsoleDocker.dll
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\obj\Debug\net6.0\UdemyConsoleDocker.pdb
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\obj\Debug\net6.0\UdemyConsoleDocker.genruntimeconfig.cache
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyConsoleDocker\obj\Debug\net6.0\ref\UdemyConsoleDocker.dll
