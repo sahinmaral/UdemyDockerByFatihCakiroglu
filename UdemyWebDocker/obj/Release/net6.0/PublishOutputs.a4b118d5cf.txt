@@ -1,0 +1,7 @@
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyWebDocker\obj\Release\net6.0\PubTmp\Out\UdemyWebDocker.exe
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyWebDocker\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyWebDocker\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyWebDocker\obj\Release\net6.0\PubTmp\Out\UdemyWebDocker.dll
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyWebDocker\obj\Release\net6.0\PubTmp\Out\UdemyWebDocker.deps.json
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyWebDocker\obj\Release\net6.0\PubTmp\Out\UdemyWebDocker.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\UdemyDocker\UdemyWebDocker\obj\Release\net6.0\PubTmp\Out\UdemyWebDocker.pdb

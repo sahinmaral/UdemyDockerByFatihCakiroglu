@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eVyIpqKMGqjyWA4AcEjqioquMcHg7iESRp14XinHFjCp7lqho3FhZ1BwrljuaGHUAIKiq+SrXq2EpxC/Vymujw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\UdemyDocker\\UdemyWebDocker\\UdemyWebDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
