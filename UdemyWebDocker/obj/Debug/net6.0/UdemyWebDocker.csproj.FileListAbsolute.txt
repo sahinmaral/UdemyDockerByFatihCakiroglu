@@ -383,3 +383,4 @@ C:\Users\sahin\Desktop\Files\GithubRepositories\UdemyDockerByFatihCakiroglu\Udem
 C:\Users\sahin\Desktop\Files\GithubRepositories\UdemyDockerByFatihCakiroglu\UdemyWebDocker\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UdemyWebDocker.props
 C:\Users\sahin\Desktop\Files\GithubRepositories\UdemyDockerByFatihCakiroglu\UdemyWebDocker\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UdemyWebDocker.props
 C:\Users\sahin\Desktop\Files\GithubRepositories\UdemyDockerByFatihCakiroglu\UdemyWebDocker\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sahin\Desktop\Files\GithubRepositories\UdemyDockerByFatihCakiroglu\UdemyWebDocker\bin\Debug\net6.0\appsettings.Production.json

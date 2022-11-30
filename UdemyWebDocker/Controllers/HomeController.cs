@@ -10,15 +10,19 @@ namespace UdemyWebDocker.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IFileProvider _fileProvider;
+        private readonly IConfiguration _configuration;
 
-        public HomeController(ILogger<HomeController> logger, IFileProvider fileProvider)
+        public HomeController(ILogger<HomeController> logger, IFileProvider fileProvider, IConfiguration configuration)
         {
             _fileProvider = fileProvider;
             _logger = logger;
+            _configuration = configuration;
         }
 
         public IActionResult Index()
         {
+            ViewData["MySqlCon"] = _configuration["MySqlCon"];
+
             return View();
         }
 
