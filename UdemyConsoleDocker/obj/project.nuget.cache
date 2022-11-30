@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MlbLaxlOlvXlpCLKmi7WZP/gnQnwv4oGu+KlW5NmcbKNIqNSbEUrucUEfcTgVcOHda/9EQbcqCa/jHyqHVvtSg==",
+  "dgSpecHash": "k9kqkX7bP5fl2RMeI6W2BTtHm0z2sEq0BanAt1tlvBQK1mrb2IX1ZS77eScJsKsaXTWH4iikS6hn6MrlA15T+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sahin\\OneDrive\\Desktop\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\UdemyDockerByFatihCakiroglu\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
   "logs": []
 }

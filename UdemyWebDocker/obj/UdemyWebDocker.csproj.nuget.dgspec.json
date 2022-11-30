@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahin\\OneDrive\\Desktop\\UdemyDocker\\UdemyWebDocker\\UdemyWebDocker.csproj": {}
+    "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\UdemyDockerByFatihCakiroglu\\UdemyWebDocker\\UdemyWebDocker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahin\\OneDrive\\Desktop\\UdemyDocker\\UdemyWebDocker\\UdemyWebDocker.csproj": {
+    "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\UdemyDockerByFatihCakiroglu\\UdemyWebDocker\\UdemyWebDocker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahin\\OneDrive\\Desktop\\UdemyDocker\\UdemyWebDocker\\UdemyWebDocker.csproj",
+        "projectUniqueName": "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\UdemyDockerByFatihCakiroglu\\UdemyWebDocker\\UdemyWebDocker.csproj",
         "projectName": "UdemyWebDocker",
-        "projectPath": "C:\\Users\\sahin\\OneDrive\\Desktop\\UdemyDocker\\UdemyWebDocker\\UdemyWebDocker.csproj",
+        "projectPath": "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\UdemyDockerByFatihCakiroglu\\UdemyWebDocker\\UdemyWebDocker.csproj",
         "packagesPath": "C:\\Users\\sahin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahin\\OneDrive\\Desktop\\UdemyDocker\\UdemyWebDocker\\obj\\",
+        "outputPath": "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\UdemyDockerByFatihCakiroglu\\UdemyWebDocker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,9 +45,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[1.17.0, )"
+              "version": "[6.0.0, )"
             }
           },
           "imports": [

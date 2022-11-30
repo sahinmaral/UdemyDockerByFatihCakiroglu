@@ -1,0 +1,19 @@
+@model IEnumerable<string>
+    
+@{
+    ViewData["Title"] = "Image Show";
+}
+
+<h1>Resimler</h1>
+
+<div class="row">
+
+    @foreach (var image in Model)
+    {
+        <div class="col">
+            <img src="~/images/@image" style="width:100px;height:100px;border:1px solid red;"/>
+            <p>@image</p>
+            <a href="/Home/ImageDelete?name=@image" class="btn btn-info">Resmi Sil</a>
+        </div>
+    }
+</div>
